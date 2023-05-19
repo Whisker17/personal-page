@@ -2,8 +2,8 @@
 id: multisig
 title: MultiSig Pallet
 tags:
-  - Demo
-  - Getting started
+  - Substrate
+  - Deep Dives
 ---
 
 # MultiSig Pallet
