@@ -1,3 +1,11 @@
+---
+id: multisig
+title: MultiSig Pallet
+tags:
+  - Demo
+  - Getting started
+---
+
 # MultiSig Pallet
 
 ## The basic concept of MultiSig
