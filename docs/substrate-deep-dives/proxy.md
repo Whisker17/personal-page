@@ -6,8 +6,6 @@ tags:
   - Deep Dives
 ---
 
-# Proxy Pallet
-
 We all know that Substrate's account is a powerful design, and most users are not tech-hardcore, so they will always complain that Polkadot.js is a wallet with a flawed UI/UX, a complaint we also see with MetaMask on Ethereum, but it doesn't affect its monopoly. Of course, there are some great wallets in the DOT ecosystem, such as [**Talisman**](https://www.talisman.xyz/) and [**Subwallet**](https://subwallet.app/), that focus on improving the UI/UX of their wallets, supporting features such as **multi-chains assets portfolio**, **stake**, and **NFT view**, but they also drop many of the features supported by Polkadot.js for the sake of a better UI/UX. Now let's introduce a proxy feature that improves the security of accounts in the Substrate chain.
 
 ## Introduction to Proxy Accounts

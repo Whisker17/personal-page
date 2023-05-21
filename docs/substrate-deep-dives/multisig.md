@@ -6,8 +6,6 @@ tags:
   - Deep Dives
 ---
 
-# MultiSig Pallet
-
 ## The basic concept of MultiSig
 
 We know that in the blockchain, the perception is that a private key corresponds to the ownership of an account, as the classic saying goes:
